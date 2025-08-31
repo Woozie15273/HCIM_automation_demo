@@ -1,4 +1,5 @@
 PHN Lookup Tool Documentation
+
 This guide explains how the automated Personal Health Number (PHN) lookup tool works. It's designed to make things faster and easier.
 ________________________________________
 📁 **Folder Structure**
@@ -129,4 +130,5 @@ ________________________________________
 🐞 **Known Issues**
 
 •	Doesn’t fix data problems like reversed birth dates or names in all caps.
+
 
