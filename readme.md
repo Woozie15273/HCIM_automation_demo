@@ -1,6 +1,6 @@
 PHN Lookup Tool Documentation
 
-This guide explains how the automated Personal Health Number (PHN) lookup tool works. It's designed to make things faster and easier.
+This guide explains how the automated Personal Health Number (PHN) lookup tool works. It's designed to reduce repetitive manual labor during the query process.
 ________________________________________
 📁 **Folder Structure**
 
@@ -32,8 +32,11 @@ ________________________________________
 
 You can turn this into a portable app using pyinstaller (--onefile).
 This way, anyone can use it without a programming setup or a Super Admin account.
+
 Minimum folder setup:
+
 Main.exe       # Main program  
+
 Config.ini     # Settings file
 ________________________________________
 ⚙️ **Configurations**
@@ -130,5 +133,6 @@ ________________________________________
 🐞 **Known Issues**
 
 •	Doesn’t fix data problems like reversed birth dates or names in all caps.
+
 
 
